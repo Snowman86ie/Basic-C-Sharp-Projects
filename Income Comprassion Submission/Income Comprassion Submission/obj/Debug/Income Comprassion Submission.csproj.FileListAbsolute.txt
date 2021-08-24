@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Income Comprassion Submission\Income Comprassion Submission\bin\Debug\Income Comprassion Submission.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Income Comprassion Submission\Income Comprassion Submission\bin\Debug\Income Comprassion Submission.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Income Comprassion Submission\Income Comprassion Submission\bin\Debug\Income Comprassion Submission.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Income Comprassion Submission\Income Comprassion Submission\obj\Debug\Income Comprassion Submission.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Income Comprassion Submission\Income Comprassion Submission\obj\Debug\Income Comprassion Submission.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Income Comprassion Submission\Income Comprassion Submission\obj\Debug\Income Comprassion Submission.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Income Comprassion Submission\Income Comprassion Submission\obj\Debug\Income Comprassion Submission.pdb
