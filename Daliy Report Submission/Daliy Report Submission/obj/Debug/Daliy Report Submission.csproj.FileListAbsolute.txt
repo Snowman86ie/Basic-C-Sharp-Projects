@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Daliy Report Submission\Daliy Report Submission\bin\Debug\Daliy Report Submission.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Daliy Report Submission\Daliy Report Submission\bin\Debug\Daliy Report Submission.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Daliy Report Submission\Daliy Report Submission\bin\Debug\Daliy Report Submission.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Daliy Report Submission\Daliy Report Submission\obj\Debug\Daliy Report Submission.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Daliy Report Submission\Daliy Report Submission\obj\Debug\Daliy Report Submission.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Daliy Report Submission\Daliy Report Submission\obj\Debug\Daliy Report Submission.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Daliy Report Submission\Daliy Report Submission\obj\Debug\Daliy Report Submission.pdb
