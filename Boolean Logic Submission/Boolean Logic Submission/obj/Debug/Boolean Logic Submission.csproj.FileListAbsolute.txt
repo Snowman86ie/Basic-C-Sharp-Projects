@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\Boolean Logic Submission.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\Boolean Logic Submission.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\bin\Debug\Boolean Logic Submission.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Boolean Logic Submission\Boolean Logic Submission\obj\Debug\Boolean Logic Submission.pdb
