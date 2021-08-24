@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\MathSubmission\MathSubmission\bin\Debug\MathSubmission.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\MathSubmission\MathSubmission\bin\Debug\MathSubmission.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\MathSubmission\MathSubmission\bin\Debug\MathSubmission.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\MathSubmission\MathSubmission\obj\Debug\MathSubmission.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\MathSubmission\MathSubmission\obj\Debug\MathSubmission.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\MathSubmission\MathSubmission\obj\Debug\MathSubmission.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\MathSubmission\MathSubmission\obj\Debug\MathSubmission.pdb
