@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Price Quote Application Submission\Price Quote Application Submission\bin\Debug\Price Quote Application Submission.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Price Quote Application Submission\Price Quote Application Submission\bin\Debug\Price Quote Application Submission.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Price Quote Application Submission\Price Quote Application Submission\bin\Debug\Price Quote Application Submission.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Price Quote Application Submission\Price Quote Application Submission\obj\Debug\Price Quote Application Submission.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Price Quote Application Submission\Price Quote Application Submission\obj\Debug\Price Quote Application Submission.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Price Quote Application Submission\Price Quote Application Submission\obj\Debug\Price Quote Application Submission.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Price Quote Application Submission\Price Quote Application Submission\obj\Debug\Price Quote Application Submission.pdb
