@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Strings Submission\Strings Submission\bin\Debug\Strings Submission.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Strings Submission\Strings Submission\bin\Debug\Strings Submission.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Strings Submission\Strings Submission\bin\Debug\Strings Submission.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Strings Submission\Strings Submission\obj\Debug\Strings Submission.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Strings Submission\Strings Submission\obj\Debug\Strings Submission.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Strings Submission\Strings Submission\obj\Debug\Strings Submission.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Strings Submission\Strings Submission\obj\Debug\Strings Submission.pdb
