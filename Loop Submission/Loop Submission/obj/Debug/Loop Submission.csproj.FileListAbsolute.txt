@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Loop Submission\Loop Submission\bin\Debug\Loop Submission.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Loop Submission\Loop Submission\bin\Debug\Loop Submission.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Loop Submission\Loop Submission\bin\Debug\Loop Submission.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Loop Submission\Loop Submission\obj\Debug\Loop Submission.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Loop Submission\Loop Submission\obj\Debug\Loop Submission.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Loop Submission\Loop Submission\obj\Debug\Loop Submission.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Loop Submission\Loop Submission\obj\Debug\Loop Submission.pdb
