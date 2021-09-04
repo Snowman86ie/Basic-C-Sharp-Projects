@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\ClassandMethods Assignment1\ClassandMethods Assignment1\bin\Debug\ClassandMethods Assignment1.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\ClassandMethods Assignment1\ClassandMethods Assignment1\bin\Debug\ClassandMethods Assignment1.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\ClassandMethods Assignment1\ClassandMethods Assignment1\bin\Debug\ClassandMethods Assignment1.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\ClassandMethods Assignment1\ClassandMethods Assignment1\obj\Debug\ClassandMethods Assignment1.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\ClassandMethods Assignment1\ClassandMethods Assignment1\obj\Debug\ClassandMethods Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\ClassandMethods Assignment1\ClassandMethods Assignment1\obj\Debug\ClassandMethods Assignment1.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\ClassandMethods Assignment1\ClassandMethods Assignment1\obj\Debug\ClassandMethods Assignment1.pdb
