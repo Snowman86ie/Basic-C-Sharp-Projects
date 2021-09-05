@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Inheritance Assignment\Inheritance Assignment\bin\Debug\Inheritance Assignment.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Inheritance Assignment\Inheritance Assignment\bin\Debug\Inheritance Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Inheritance Assignment\Inheritance Assignment\bin\Debug\Inheritance Assignment.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.pdb
