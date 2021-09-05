@@ -1,0 +1,6 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Class Method Assignment\Class Method Assignment\bin\Debug\Class Method Assignment.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Class Method Assignment\Class Method Assignment\bin\Debug\Class Method Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Class Method Assignment\Class Method Assignment\bin\Debug\Class Method Assignment.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Class Method Assignment\Class Method Assignment\obj\Debug\Class Method Assignment.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Class Method Assignment\Class Method Assignment\obj\Debug\Class Method Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Class Method Assignment\Class Method Assignment\obj\Debug\Class Method Assignment.pdb
