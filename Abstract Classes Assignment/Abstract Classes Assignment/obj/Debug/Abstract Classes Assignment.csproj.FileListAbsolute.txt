@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Abstract Classes Assignment\Abstract Classes Assignment\bin\Debug\Abstract Classes Assignment.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Abstract Classes Assignment\Abstract Classes Assignment\bin\Debug\Abstract Classes Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Abstract Classes Assignment\Abstract Classes Assignment\bin\Debug\Abstract Classes Assignment.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Abstract Classes Assignment\Abstract Classes Assignment\obj\Debug\Abstract Classes Assignment.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Abstract Classes Assignment\Abstract Classes Assignment\obj\Debug\Abstract Classes Assignment.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Abstract Classes Assignment\Abstract Classes Assignment\obj\Debug\Abstract Classes Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Abstract Classes Assignment\Abstract Classes Assignment\obj\Debug\Abstract Classes Assignment.pdb
