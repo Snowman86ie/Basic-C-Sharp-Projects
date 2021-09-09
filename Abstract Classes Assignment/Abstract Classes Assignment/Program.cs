@@ -17,6 +17,8 @@ namespace Abstract_Classes_Assignment
 
             person.SayName();
 
+            person.Quit(person);
+
 
             Console.ReadLine();
         }
