@@ -18,7 +18,9 @@ namespace Class_Method_Assignment
             int userNumber = Convert.ToInt32(Console.ReadLine());
             math.Division(userNumber);
             Console.WriteLine();
-            int result = Math.Addition(userNumber);
+            int result = Math.Addition(userNumber, out int count);
+            Console.WriteLine(count);
+            Console.WriteLine();
             Console.WriteLine("Your number plus five is:" + result);
             Console.WriteLine();
             int result2 = Math.Addition(userNumber, 15);

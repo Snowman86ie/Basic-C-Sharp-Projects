@@ -16,9 +16,11 @@ namespace Class_Method_Assignment
             
         }
 
-        public static int Addition(int num1)
+        public static int Addition(int num1, out int count)
         {
             int result = num1 + 5;
+            count = 0;
+            count++;
             return result;
         }
 
