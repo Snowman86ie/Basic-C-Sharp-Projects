@@ -20,8 +20,9 @@ namespace ClassandMethods_Assignment1
         }
         public static string Addition(string number)
         {
-            int temp = Convert.ToInt32(number);
-            string answer2 = (temp -4).ToString();
+            int temp;
+            Int32.TryParse(number, out temp);
+            string answer2 = (temp - 4).ToString();
             return answer2;
         }
     }
