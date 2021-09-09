@@ -15,6 +15,9 @@ namespace Class_and_Method_Assignment_3
             
             int num1 = 3, num2 = 5;
             math.Addition(num1 , num2);
+            Console.WriteLine();
+            
+            math.Addition(num1: 4, num2: 15);
             Console.ReadLine();
         }
     }
