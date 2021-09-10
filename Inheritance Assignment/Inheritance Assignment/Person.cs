@@ -8,12 +8,32 @@ namespace Inheritance_Assignment
 {
     public class Person
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public List<string> Name{ get; set; } 
+        
 
         public void SayName()
         {
-            Console.WriteLine("Name: "+FirstName + " " + LastName);
+            foreach (string name in Name)
+            {
+                Console.WriteLine("Name: " + name);
+            }
+          
+        }
+
+        public static bool operator ==(Employee employee)
+        {
+            if (employee.Equals(employee))
+                return true;
+            else
+                return false;
+            
+        }
+        public static bool operator!=(Employee employee)
+        {
+            if (!employee.Equals(employee))
+                return true;
+            else
+                return false;
         }
     }
 }

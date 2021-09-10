@@ -11,9 +11,19 @@ namespace Inheritance_Assignment
         static void Main(string[] args)
         {
             Employee person = new Employee();
+            person.Name = new List<string>();
+                        
+            person.Name.Add("Liam Curtin");
+            person.Name.Add("Joe Smith");
 
-            person.FirstName = "Sample";
-            person.LastName = "Student";
+            if (person.Id == person.Id)
+            {
+                Console.WriteLine("They are a match");
+            }
+            else
+            {
+                Console.WriteLine("They are not a match");
+            }
 
             person.SayName();
 
