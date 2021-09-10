@@ -1,0 +1,7 @@
+C:\Users\liamc\source\repos\Generics Assignment\Generics Assignment\bin\Debug\Generics Assignment.exe.config
+C:\Users\liamc\source\repos\Generics Assignment\Generics Assignment\bin\Debug\Generics Assignment.exe
+C:\Users\liamc\source\repos\Generics Assignment\Generics Assignment\bin\Debug\Generics Assignment.pdb
+C:\Users\liamc\source\repos\Generics Assignment\Generics Assignment\obj\Debug\Generics Assignment.csproj.AssemblyReference.cache
+C:\Users\liamc\source\repos\Generics Assignment\Generics Assignment\obj\Debug\Generics Assignment.csproj.CoreCompileInputs.cache
+C:\Users\liamc\source\repos\Generics Assignment\Generics Assignment\obj\Debug\Generics Assignment.exe
+C:\Users\liamc\source\repos\Generics Assignment\Generics Assignment\obj\Debug\Generics Assignment.pdb
