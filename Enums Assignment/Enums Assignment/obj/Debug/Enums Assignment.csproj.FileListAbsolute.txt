@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Enums Assignment\Enums Assignment\bin\Debug\Enums Assignment.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Enums Assignment\Enums Assignment\bin\Debug\Enums Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Enums Assignment\Enums Assignment\bin\Debug\Enums Assignment.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Enums Assignment\Enums Assignment\obj\Debug\Enums Assignment.pdb
