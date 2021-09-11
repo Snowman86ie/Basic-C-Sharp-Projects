@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Structs Assignment\Structs Assignment\bin\Debug\Structs Assignment.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Structs Assignment\Structs Assignment\bin\Debug\Structs Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Structs Assignment\Structs Assignment\bin\Debug\Structs Assignment.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Structs Assignment\Structs Assignment\obj\Debug\Structs Assignment.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Structs Assignment\Structs Assignment\obj\Debug\Structs Assignment.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Structs Assignment\Structs Assignment\obj\Debug\Structs Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Structs Assignment\Structs Assignment\obj\Debug\Structs Assignment.pdb
