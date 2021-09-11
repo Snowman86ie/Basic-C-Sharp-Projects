@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Inheritance_Assignment
 {
-    public class Person
+    public class Person 
     {
         public List<string> Name{ get; set; } 
         
@@ -20,20 +20,6 @@ namespace Inheritance_Assignment
           
         }
 
-        public static bool operator ==(Employee employee)
-        {
-            if (employee.Equals(employee))
-                return true;
-            else
-                return false;
-            
-        }
-        public static bool operator!=(Employee employee)
-        {
-            if (!employee.Equals(employee))
-                return true;
-            else
-                return false;
-        }
+        
     }
 }

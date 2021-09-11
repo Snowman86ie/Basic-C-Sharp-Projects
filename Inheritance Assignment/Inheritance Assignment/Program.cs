@@ -10,13 +10,15 @@ namespace Inheritance_Assignment
     {
         static void Main(string[] args)
         {
-            Employee person = new Employee();
-            person.Name = new List<string>();
+            Employee employee = new Employee();
+            employee.Name = new List<string>();
+           
+            
                         
-            person.Name.Add("Liam Curtin");
-            person.Name.Add("Joe Smith");
+            employee.Name.Add("Liam Curtin");
+            employee.Name.Add("Joe Smith");
 
-            if (person.Id == person.Id)
+            if (employee.Id != employee.Id)
             {
                 Console.WriteLine("They are a match");
             }
@@ -25,7 +27,7 @@ namespace Inheritance_Assignment
                 Console.WriteLine("They are not a match");
             }
 
-            person.SayName();
+            //person.SayName();
 
 
             Console.ReadLine();
