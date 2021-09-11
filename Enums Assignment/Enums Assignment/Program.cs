@@ -10,6 +10,7 @@ namespace Enums_Assignment
     {
         static void Main(string[] args)
         {
+            Enter:
             Console.WriteLine("Please enter the current day:");
             string userDay = Console.ReadLine();
 
@@ -20,12 +21,22 @@ namespace Enums_Assignment
             {
                 if (Enum.TryParse<DaysofWeek>(userDay, true, out day1))
                 {
+                    
                     Console.WriteLine("The current day is: "+ day1);
                 }
+                else
+                {
+                    throw new Exception();
+                }
             }
-            catch (IndexOutOfRangeException)
+            catch (Exception e)
             {
                 Console.WriteLine("Please enter an actual day of the week");
+                goto Enter;
+            }
+            finally
+            {
+                Console.WriteLine("Program finished");
             }
 
             Console.ReadLine();
