@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Lambda Expersion Assignment\Lambda Expersion Assignment\bin\Debug\Lambda Expersion Assignment.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Lambda Expersion Assignment\Lambda Expersion Assignment\bin\Debug\Lambda Expersion Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Lambda Expersion Assignment\Lambda Expersion Assignment\bin\Debug\Lambda Expersion Assignment.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Lambda Expersion Assignment\Lambda Expersion Assignment\obj\Debug\Lambda Expersion Assignment.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Lambda Expersion Assignment\Lambda Expersion Assignment\obj\Debug\Lambda Expersion Assignment.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Lambda Expersion Assignment\Lambda Expersion Assignment\obj\Debug\Lambda Expersion Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Lambda Expersion Assignment\Lambda Expersion Assignment\obj\Debug\Lambda Expersion Assignment.pdb
