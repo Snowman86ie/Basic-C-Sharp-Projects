@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\DateandTime Assignment\DateandTime Assignment\bin\Debug\DateandTime Assignment.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\DateandTime Assignment\DateandTime Assignment\bin\Debug\DateandTime Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\DateandTime Assignment\DateandTime Assignment\bin\Debug\DateandTime Assignment.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\DateandTime Assignment\DateandTime Assignment\obj\Debug\DateandTime Assignment.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\DateandTime Assignment\DateandTime Assignment\obj\Debug\DateandTime Assignment.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\DateandTime Assignment\DateandTime Assignment\obj\Debug\DateandTime Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\DateandTime Assignment\DateandTime Assignment\obj\Debug\DateandTime Assignment.pdb
