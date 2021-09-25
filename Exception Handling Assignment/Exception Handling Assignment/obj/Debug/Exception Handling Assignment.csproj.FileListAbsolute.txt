@@ -1,0 +1,7 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Exception Handling Assignment\Exception Handling Assignment\bin\Debug\Exception Handling Assignment.exe.config
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Exception Handling Assignment\Exception Handling Assignment\bin\Debug\Exception Handling Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Exception Handling Assignment\Exception Handling Assignment\bin\Debug\Exception Handling Assignment.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Exception Handling Assignment\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Exception Handling Assignment\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Exception Handling Assignment\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Exception Handling Assignment\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.pdb
