@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\liamc\\Documents\\Github\\Basic-C-Sharp-Projects\\FinalChallenge\\FinalChallenge\\FinalChallenge.csproj": {}
+    "C:\\Users\\Liam\\Documents\\GitHub\\Basic-C-Sharp-Projects\\FinalChallenge\\FinalChallenge\\FinalChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\liamc\\Documents\\Github\\Basic-C-Sharp-Projects\\FinalChallenge\\FinalChallenge\\FinalChallenge.csproj": {
+    "C:\\Users\\Liam\\Documents\\GitHub\\Basic-C-Sharp-Projects\\FinalChallenge\\FinalChallenge\\FinalChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liamc\\Documents\\Github\\Basic-C-Sharp-Projects\\FinalChallenge\\FinalChallenge\\FinalChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\Liam\\Documents\\GitHub\\Basic-C-Sharp-Projects\\FinalChallenge\\FinalChallenge\\FinalChallenge.csproj",
         "projectName": "FinalChallenge",
-        "projectPath": "C:\\Users\\liamc\\Documents\\Github\\Basic-C-Sharp-Projects\\FinalChallenge\\FinalChallenge\\FinalChallenge.csproj",
-        "packagesPath": "C:\\Users\\liamc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liamc\\Documents\\Github\\Basic-C-Sharp-Projects\\FinalChallenge\\FinalChallenge\\obj\\",
+        "projectPath": "C:\\Users\\Liam\\Documents\\GitHub\\Basic-C-Sharp-Projects\\FinalChallenge\\FinalChallenge\\FinalChallenge.csproj",
+        "packagesPath": "C:\\Users\\Liam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Liam\\Documents\\GitHub\\Basic-C-Sharp-Projects\\FinalChallenge\\FinalChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\liamc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Liam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -61,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
