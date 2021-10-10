@@ -1,0 +1,16 @@
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\bin\Debug\net5.0\Scores.exe
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\bin\Debug\net5.0\Scores.deps.json
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\bin\Debug\net5.0\Scores.runtimeconfig.json
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\bin\Debug\net5.0\Scores.runtimeconfig.dev.json
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\bin\Debug\net5.0\Scores.dll
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\bin\Debug\net5.0\ref\Scores.dll
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\bin\Debug\net5.0\Scores.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.csproj.AssemblyReference.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.AssemblyInfoInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.AssemblyInfo.cs
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.dll
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\ref\Scores.dll
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.pdb
+C:\Users\liamc\Documents\Github\Basic-C-Sharp-Projects\Scores\Scores\obj\Debug\net5.0\Scores.genruntimeconfig.cache
